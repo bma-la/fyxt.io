@@ -4,5 +4,6 @@
 		{ "src": "index.html", "use": "@now/static" },
 		{ "src": "src/*", "use": "@now/static" }
 	],
+	"scope": "BMA",
 	"alias": ["fyxt.io"]
 }
