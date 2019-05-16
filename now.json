@@ -4,5 +4,5 @@
 		{ "src": "*", "use": "@now/static" },
 		{ "src": "src/*", "use": "@now/static" }
 	],
-	"alias": "fyxt.io"
+	"alias": ["fyxt.io"]
 }
